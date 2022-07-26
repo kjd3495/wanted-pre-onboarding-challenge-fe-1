@@ -1,0 +1,8 @@
+
+!/wanted-pre-onboarding-challenge-fe-1-api/node_modules
+!/wanted-pre-onboarding-challenge-fe-1-api/db/db.json
+!/wanted-pre-onboarding-challenge-fe-1-api/db/dist
+
+node_modules
+dist
+db/db.json
